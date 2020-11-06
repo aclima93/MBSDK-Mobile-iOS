@@ -35,11 +35,11 @@ Here you have to create an app to create app id's and get your application appro
 developer site. However, for testing against mock and simulated vehicles, no approval process is necessary. In the developer portal it is possible to skip this step for now and
 continue with the guide.    
 
-This registration is also valid vor the car simulator, which will be a huge help during the development and testing process. The simulator can be found [here](https://developer.mercedes-benz.com/car-simulator).
+This registration is also valid for the car simulator, which will be a huge help during the development and testing process. The simulator can be found [here](https://developer.mercedes-benz.com/car-simulator).
 
 The simulator allows you to test your code on a simulated car. After login you should have multiple mock vehicles available. After selecting one of the cars you should see an image of the car in the center of the screen. On the right hand side there is a menu with two items.
 
-On the right side the menu `Capabilities` allows the user to change vehicle values, such as unlocking doors or staring the engine. `Trip Simulator` allows for creation of trips. During a trip vehicle values are changed dynamically over time. This can be useful for testing the continuous observation of values.
+On the right side the menu `Capabilities` allows the user to change vehicle values, such as unlocking doors or starting the engine. `Trip Simulator` allows for creation of trips. During a trip vehicle values are changed dynamically over time. This can be useful for testing the continuous observation of values.
 
 ## Integrate the MBMobileSDK
 
